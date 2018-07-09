@@ -1,0 +1,10 @@
+[user]
+	name = anthony16220
+	email = anthony.lazerand@gmail.com
+[core]
+	editor = gedit
+	excludesfile = /home/anthony/.gitignore_global
+[push]
+	default = simple
+[diff]
+    algorithm = patience
